@@ -1,0 +1,15 @@
+{
+   "emulationEnabled": true,
+   "emulationSocketUrl": "ws://192.168.196.119:3000",
+   "browserDebugMode": true,
+   "server":{
+      "procentricIp": "172.18.0.1",
+      "serverIp": "172.18.0.1",
+      "authenticationIp": "",
+      "udpListenerPort": 7071
+   },
+   "browserResolution": "1920x1080",
+   "intervals": {
+      "reportIn": 90000
+   }
+}
